@@ -1,4 +1,3 @@
-kskklklsad
-sajkkldslklkdsa
-klkldsfakl
-ghhgha
+<?php
+echo "hello world";
+?>
